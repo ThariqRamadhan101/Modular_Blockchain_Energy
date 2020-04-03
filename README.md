@@ -24,7 +24,7 @@ Program ini terdiri 2 state dan childnya yaitu:
   
 
 ## Kontributor
-= 13216096 - Thariq Ramadhan
+- 13216096 - Thariq Ramadhan
 - 18116003 - Anneke Yolanda
 - 18116022 - Aidil Firmansyah Putra
 
