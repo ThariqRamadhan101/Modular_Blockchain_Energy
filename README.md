@@ -10,7 +10,7 @@ Repository ini merupakan bagian dari Tugas Besar matakuliah ET4043 Infrastruktur
 ![Diagram Block](https://raw.githubusercontent.com/ThariqRamadhan101/Modular_Blockchain_Energy/master/Blockchain.png)
 
 ### Schematic
-ON PROGRESS
+![Schematic](https://raw.githubusercontent.com/ThariqRamadhan101/Modular_Blockchain_Energy/master/Schematic_Modular_Blockchain_Energy_Sheet_1_20200405102355.png)
 
 ### Deskripsi Program
 Program ini terdiri 2 state dan childnya yaitu:
