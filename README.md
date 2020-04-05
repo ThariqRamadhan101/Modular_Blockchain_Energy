@@ -12,6 +12,7 @@ Energy_AC = Vrms * Irms * pf * time
 - Irms : Didapatkan melalui sensor arus AC
 - pf : Merupakan power factor diketahui biasanya 0.85
 - time : Selang waktu penggunaan
+
 Untuk mendapatakan energi baterai(DC) didapatkan dari formula berikut :
 
 Energy_Battery = Vb * Ib * t
