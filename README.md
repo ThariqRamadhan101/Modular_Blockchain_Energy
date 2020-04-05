@@ -6,12 +6,14 @@ Repository ini merupakan bagian dari Tugas Besar matakuliah ET4043 Infrastruktur
 
 ## Dari keadaan sebenarnya menjadi simulasi
 Untuk mendapatkan energi yang dipakai oleh tegangan AC didapatkan dari formula berikut :
+
 Energy_AC = Vrms * Irms * pf * time
 - Vrms : Merupakan regangan root mean square rumah tangga untuk di Indonesia yaitu 220 Volt
 - Irms : Didapatkan melalui sensor arus AC
 - pf : Merupakan power factor diketahui biasanya 0.85
 - time : Selang waktu penggunaan
 Untuk mendapatakan energi baterai(DC) didapatkan dari formula berikut :
+
 Energy_Battery = Vb * Ib * t
 - Vb : Tegangan baterai terukut
 - Ib : Arus baterai yang terukur keluar
