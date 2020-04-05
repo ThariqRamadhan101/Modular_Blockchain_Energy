@@ -13,14 +13,10 @@ Repository ini merupakan bagian dari Tugas Besar matakuliah ET4043 Infrastruktur
 ![Schematic](https://raw.githubusercontent.com/ThariqRamadhan101/Modular_Blockchain_Energy/master/Schematic_Modular_Blockchain_Energy_Sheet_1_20200405102355.png)
 
 ### Deskripsi Program
-Program ini terdiri 2 state dan childnya yaitu:
-1. AC State
-- AC_ON : Simulasi ada daya AC yang digunakan
-- AC_OFF : Simulasi tidak ada AC daya yang digunakan
-2. DC State
-- DC_ON : Simulasi penggunaan baterai(Tegangan baterai berkurang setiap waktu)
-- DC_OFF : Simulasi tidak ada penggunaan baterai(Tegangan baterai stabil)
-- DC_CHARGE : Simulasi pengecasan baterai(Tegangan baterai naik setiap waktu)
+Program ini terdiri 3 state yaitu:
+1. AC_ON : Simulasi ada daya AC yang digunakan
+2. DC_ON : Simulasi penggunaan baterai(Tegangan baterai berkurang setiap waktu)
+3. DC_CHARGE : Simulasi pengecasan baterai(Tegangan baterai naik setiap waktu)
   
 
 ## Kontributor
